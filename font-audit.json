@@ -1,0 +1,27 @@
+{
+  "font_sha256": "40bce62577ab8cef00a1198dba129c0dd0847445c04335902d3f717a25a14ec3",
+  "cmap_matches_google_source": true,
+  "unicode_mappings": 20745,
+  "nonempty_glyphs": 20299,
+  "contours": 231468,
+  "issues": {
+    "right_triangle_box_candidates": 177
+  },
+  "examples": {
+    "right_triangle_box_candidates": [
+      "uni20DE",
+      "uni22A0",
+      "uni260F",
+      "uni35C1",
+      "uni35C1",
+      "uni3A03",
+      "uni3B2B",
+      "uni3B99",
+      "uni3F63",
+      "uni4736",
+      "uni4871",
+      "uni4871"
+    ]
+  },
+  "scope": "Automated structural checks only; does not verify missing strokes, appearance or standard stroke order."
+}
